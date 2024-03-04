@@ -4,6 +4,9 @@ Makefile
 # bin
 kilo
 
+# tags
+tags
+
 # Prerequisites
 *.d
 
