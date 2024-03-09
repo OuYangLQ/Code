@@ -11,7 +11,7 @@
 #include <string.h>
 #include <sys/ioctl.h>
 #include <sys/types.h>
-#include <termios.h>
+#include <termios.h>	/*Use '$ man termios' to learn more about it */
 #include <unistd.h>
 
 /*** defines ***/
